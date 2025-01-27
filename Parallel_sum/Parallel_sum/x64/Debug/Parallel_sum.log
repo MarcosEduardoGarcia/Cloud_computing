@@ -1,0 +1,5 @@
+﻿  Parallel_sum.cpp
+D:\Documents\IA Aplicada\Quinto Trimestre\Computo en la nube\ProyectoOMP\Parallel_sum\Parallel_sum\Parallel_sum.cpp(22,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Documents\IA Aplicada\Quinto Trimestre\Computo en la nube\ProyectoOMP\Parallel_sum\Parallel_sum\Parallel_sum.cpp(23,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documents\IA Aplicada\Quinto Trimestre\Computo en la nube\ProyectoOMP\Parallel_sum\Parallel_sum\Parallel_sum.cpp(18,9): warning C4101: 'i': variable local sin referencia
+  Parallel_sum.vcxproj -> D:\Documents\IA Aplicada\Quinto Trimestre\Computo en la nube\ProyectoOMP\Parallel_sum\x64\Debug\Parallel_sum.exe
